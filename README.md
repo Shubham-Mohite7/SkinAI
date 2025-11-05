@@ -1,6 +1,5 @@
 # SkinAI – AI-Powered Skin & Acne Analyzer  
-**Live Demo**: [https://acnemodel.streamlit.app](https://acnemodel.streamlit.app)  
-**GitHub Repo**: [github.com/yourusername/SkinAI](https://github.com/Shubham-Mohite7/SkinAI)  
+**Live Demo**: [https://acnemodel.streamlit.app](https://acnemodel.streamlit.app)   
 
 ---
 
