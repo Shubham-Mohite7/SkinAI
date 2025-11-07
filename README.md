@@ -116,7 +116,6 @@ Open [http://localhost:8501](http://localhost:8501) → Upload selfie → See re
 | ![Main UI](https://via.placeholder.com/600x400?text=SkinAI+Main+Screen) | Upload + Face + Acne Circles |
 | ![Report](https://via.placeholder.com/600x300?text=Skin+Report) | Color, Genes, Type, Smoothness |
 
-*(Add real screenshots by taking from your live app!)*
 
 ---
 
