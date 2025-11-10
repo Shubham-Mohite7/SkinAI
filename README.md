@@ -1,5 +1,5 @@
 # SkinAI – AI-Powered Skin & Acne Analyzer  
-**Live Demo**: [https://acnemodel.streamlit.app](https://acnemodel.streamlit.app)   
+**Live Demo**: [https://acnemodel.streamlit.app](https://acnemodel.streamlit.app)    
 
 ---
 
